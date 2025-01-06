@@ -1,0 +1,20 @@
+  1%|▏         | 400/27650 [01:50<56:19,  8.06it/c:\Users\navan\miniconda3\envs\FB\lib\site-packages\transformers\data\datasets\language_modeling.py:53: FutureWarning: This dataset will be removed from the library soon, preprocessing should be handled with the 🤗 Datasets library. You can have a look at this example script for pointers: https://github.com/huggingface/transformers/blob/main/examples/pytorch/language-modeling/run_mlm.py
+{'loss': 3.2385, 'grad_norm': 10.54712963104248, 'learning_rate': 4.981916817359856e-05, 'epoch': 0.04}
+  warnings.warn( 243/346 [00:14<00:05, 17.26it/s]
+{'eval_loss': 2.73008131980896, 'eval_runtime': 19.4255, 'eval_samples_per_second': 142.236, 'eval_steps_per_second': 17.812, 'epoch': 0.04}
+{'loss': 2.7311, 'grad_norm': 10.718173027038574, 'learning_rate': 4.9638336347197105e-05, 'epoch': 0.07}
+{'eval_loss': 2.5583043098449707, 'eval_runtime': 19.648, 'eval_samples_per_second': 140.625, 'eval_steps_per_second': 17.61, 'epoch': 0.07}
+{'loss': 2.5636, 'grad_norm': 9.719970703125, 'learning_rate': 4.945750452079566e-05, 'epoch': 0.11}
+{'eval_loss': 2.4730217456817627, 'eval_runtime': 19.9139, 'eval_samples_per_second': 138.747, 'eval_steps_per_second': 17.375, 'epoch': 0.11}
+{'loss': 2.5543, 'grad_norm': 9.05553150177002, 'learning_rate': 4.9276672694394214e-05, 'epoch': 0.14}
+c:\Users\navan\miniconda3\envs\FB\lib\site-packages\transformers\training_args.py:1575: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+                                                 c:\Users\navan\miniconda3\envs\FB\lib\site-packages\transformers\data\datasets\language_modeling.py:53: FutureWarning: This dataset will be removed from the library soon, preprocessing should be handled with the 🤗 Datasets library. You can have a look at this example script for pointers: https://github.com/huggingface/transformers/blob/main/examples/pytorch/language-modeling/run_mlm.py
+  warnings.warn( 243/346 [00:29<00:05, 17.26it/s]
+c:\Users\navan\miniconda3\envs\FB\lib\site-packages\transformers\training_args.py:1575: FutureWarning: `evaluation_strategy` is deprecated and will be removed in version 4.46 of 🤗 Transformers. Use `eval_strategy` instead
+  warnings.warn(
+  1%|▏         | 400/27650 [02:48<3:11:31,  2.37it/s]
+  4%|▎         | 1000/27650 [04:10<2:03:41,  3.59it/s]
+ 19%|█▉        | 65/346 [00:14<01:06,  4.22it/s] 
+  0%|          | 36/27650 [04:47<56:10,  8.19it/s]
+{'loss': 2.5354, 'grad_norm': 7.24228048324585, 'learning_rate': 4.8191681735985535e-05, 'epoch': 0.36}

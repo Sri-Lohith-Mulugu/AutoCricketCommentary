@@ -1,0 +1,12 @@
+{"time":"2024-12-31T10:25:04.6117571+05:30","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-31T10:25:04.6123283+05:30","level":"INFO","msg":"created symlink","path":"c:\\Users\\navan\\OneDrive\\Pictures\\FE\\GPT-2 MOdel\\wandb\\run-20241231_102504-0ja1i9xn\\logs\\debug-core.log"}
+{"time":"2024-12-31T10:25:05.2482362+05:30","level":"INFO","msg":"created new stream","id":"0ja1i9xn"}
+{"time":"2024-12-31T10:25:05.2482362+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"0ja1i9xn"}
+{"time":"2024-12-31T10:25:05.2482362+05:30","level":"INFO","msg":"stream: started","id":"0ja1i9xn"}
+{"time":"2024-12-31T10:25:05.2482362+05:30","level":"INFO","msg":"handler: started","stream_id":"0ja1i9xn"}
+{"time":"2024-12-31T10:25:05.2482362+05:30","level":"INFO","msg":"sender: started","stream_id":"0ja1i9xn"}
+{"time":"2024-12-31T10:25:05.7875947+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-31T10:27:12.2525898+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-31T10:27:15.8641047+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-12-31T10:27:22.6287412+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-12-31T10:27:38.125149+05:30","level":"INFO","msg":"Resuming system monitor"}

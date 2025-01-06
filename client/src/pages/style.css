@@ -1,0 +1,78 @@
+/* General Body and Form Styles */
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "Jost", sans-serif;
+  background: linear-gradient(to bottom, #0f0c29, #302b63, #24243e);
+}
+
+.form-container {
+  position: relative;
+  width: 350px;
+  padding: 30px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 5px 20px 50px rgba(0, 0, 0, 0.3);
+  z-index: 10; /* Ensures form is in front */
+}
+
+label {
+  color: #573b8a;
+  font-size: 1.8em;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  background-color: #f1f1f1;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  outline: none;
+}
+
+input:focus {
+  border-color: #573b8a;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #573b8a;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #6d44b8;
+}
+
+p {
+  color: #333;
+  text-align: center;
+  margin-top: 10px;
+}
+
+span {
+  color: #573b8a;
+  cursor: pointer;
+}
+
+.Toastify__toast-container {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1000;
+}
