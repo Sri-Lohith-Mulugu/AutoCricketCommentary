@@ -115,7 +115,16 @@ AutoCricketCommentary/
 │
 └── README.md
 ```
+## ⚠️ Note on Model Files
 
+The trained model files are not included in this repository due to storage limitations:
+
+- `video_cnn_epoch_34.pth` — Trained Video CNN weights (~500MB+)
+- `working/gpt2-finetuned/` — Fine-tuned GPT-2 model files (~1GB+)
+
+These models were trained on Google Colab. To run the full pipeline locally, you would need to retrain the models or request the weights from the project contributors.
+
+The code for the complete pipeline is available in `flask_server/app_temp.py`.
 ---
 
 ## ⚙️ How It Works
